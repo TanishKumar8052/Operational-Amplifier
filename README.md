@@ -3,7 +3,7 @@ The Aim of this Project is to study the internal structure of the opamp in order
 # Overview of the WorkFlow :
 1. Designing the Three Stages of a Opamp
 2. Computing the various parmaters of opamp theoretically
-3. Verifying the theoretical calculations via software simulations
+3. Verifying the theoretical calculations via software simulations on LTspice
 4. Implementing the designed circuit on a PCB Board to use for various applications and for practically verifiying the circuit
 5. Design of a Power operational amplifier and Simulating it on Software
 6. Future Work : Implementing the power amp as a audio amplifier
