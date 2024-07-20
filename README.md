@@ -9,14 +9,14 @@ The Aim of this Project is to study the internal structure of the opamp in order
 6. Design of a Power operational amplifier and Simulating it on Software
 7. Future Work : Implementing the power amp as a audio amplifier
 # Results :
-1.Open Loop Gain :<br/> 106db
-2.Input Impedance :<br/> 20.18 kΩ
-3.Output Impedance :<br/> 310 Ω
-4.Gain Bandwidth Product :<br/> 8.38 MHz
+1.Open Loop Gain : 106db <br/> 
+2.Input Impedance : 20.18 kΩ <br/> 
+3.Output Impedance : 310 Ω <br/> 
+4.Gain Bandwidth Product : 8.38 MHz <br/> 
 5.Slew Rate :<br/>
-6.Common Mode Rejection Ratio :<br/> 110-119 db
+6.Common Mode Rejection Ratio : 110-119 db <br/> 
 7.Input Offest Voltage :<br/>
-8.Cut-off frequency (Bandwidth) :<br/> 20Hz
+8.Cut-off frequency (Bandwidth) : 20Hz <br/> 
 # References :
 1. Sedra and Smith Microelectronics Book
 2. https://www.researchgate.net/figure/Op-amp-Functional-Block-Diagram_fig1_354376031#:~:text=This%20article%20explains%20how%20to,phase%20margin%20of%2070%200
