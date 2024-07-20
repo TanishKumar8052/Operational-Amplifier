@@ -9,12 +9,12 @@ The Aim of this Project is to study the internal structure of the opamp in order
 6. Design of a Power operational amplifier and Simulating it on Software
 7. Future Work : Implementing the power amp as a audio amplifier
 # Results :
-Open Loop Gain :
-Input Impedance :
-Output Impedance :
-Gain Bandwidth Product :
-Slew Rate :
-Common Mode Rejection Ratio :
-Input Offest Voltage :
-Cut-off frequency (Bandwidth) :
+1.Open Loop Gain :
+2.Input Impedance :
+3.Output Impedance :
+4.Gain Bandwidth Product :
+5.Slew Rate :
+6.Common Mode Rejection Ratio :
+7.Input Offest Voltage :
+8.Cut-off frequency (Bandwidth) :
 
