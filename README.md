@@ -5,5 +5,8 @@ The Aim of this Project is to study the internal structure of the opamp in order
 2. Computing the various parmaters of opamp theoretically
 3. Verifying the theoretical calculations via software simulations on LTspice
 4. Implementing the designed circuit on a PCB Board to use for various applications and for practically verifiying the circuit
-5. Design of a Power operational amplifier and Simulating it on Software
-6. Future Work : Implementing the power amp as a audio amplifier
+5. Implementing the PCB Board for various closed loop configurations
+6. Design of a Power operational amplifier and Simulating it on Software
+7. Future Work : Implementing the power amp as a audio amplifier
+# Results :
+Open Loop Gain :
