@@ -1,0 +1,16 @@
+LTspice 24.0.11 for Windows
+Circuit: * C:\Users\Tanish Kumar\Desktop\LTspice_Simulations\Final Operational Amplifier_2.asc
+Start Time: Fri Jul 19 17:57:11 2024
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Warning: Multiple definitions of model "1n914" Type: Diode
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.130 seconds.
+
